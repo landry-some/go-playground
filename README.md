@@ -1,13 +1,6 @@
 # Better Go Playground
 
-[![Docker Hub](https://img.shields.io/docker/pulls/x1unix/go-playground.svg)](https://hub.docker.com/r/x1unix/go-playground)
-[![Docker Hub](https://img.shields.io/docker/v/x1unix/go-playground.svg?sort=semver)](https://hub.docker.com/r/x1unix/go-playground)
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/100nk.svg)](https://status.goplay.tools/?utm_source=status_badge)
-[![Coverage Status](https://coveralls.io/repos/github/x1unix/go-playground/badge.svg?branch=dev)](https://coveralls.io/github/x1unix/go-playground?branch=dev)
-[![Goreportcard](https://goreportcard.com/badge/github.com/x1unix/go-playground)](https://goreportcard.com/report/github.com/x1unix/go-playground)
-[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
-Improved Go Playground powered by Monaco Editor and React - [https://goplay.tools/](https://goplay.tools)
+Improved Go Playground powered by Monaco Editor and React
 
 ![alt text](docs/img/demo.gif)
 
@@ -40,13 +33,6 @@ Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) and [HACKING.md](HACKING.md) 
 
 ### Sponsoring
 
-<a href="https://gno.land/?utm_source=sponsor&utm_medium=goplay&utm_campaign=DevAcquisition+&utm_content=Devtool" target="_blank">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./docs/img/sponsors/gnoland-dark.svg" width="480">
-        <img alt="Gno.land logo" width="480" src="./docs/img/sponsors/gnoland-light.svg">
-    </picture>
-</a>
-
 This project is sponsored by Gno.land providing cloud environment to host Better Go Playground.
 
 ### Code Contributors
@@ -61,18 +47,3 @@ Become a financial contributor and help us sustain our community. [[Contribute](
 #### Individuals
 
 <a href="https://opencollective.com/bttr-go-playground"><img src="https://opencollective.com/bttr-go-playground/individuals.svg?width=890"></a>
-
-#### Organizations
-
-Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/bttr-go-playground/contribute)]
-
-<a href="https://opencollective.com/bttr-go-playground/organization/0/website"><img src="https://opencollective.com/bttr-go-playground/organization/0/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/1/website"><img src="https://opencollective.com/bttr-go-playground/organization/1/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/2/website"><img src="https://opencollective.com/bttr-go-playground/organization/2/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/3/website"><img src="https://opencollective.com/bttr-go-playground/organization/3/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/4/website"><img src="https://opencollective.com/bttr-go-playground/organization/4/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/5/website"><img src="https://opencollective.com/bttr-go-playground/organization/5/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/6/website"><img src="https://opencollective.com/bttr-go-playground/organization/6/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/7/website"><img src="https://opencollective.com/bttr-go-playground/organization/7/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/8/website"><img src="https://opencollective.com/bttr-go-playground/organization/8/avatar.svg"></a>
-<a href="https://opencollective.com/bttr-go-playground/organization/9/website"><img src="https://opencollective.com/bttr-go-playground/organization/9/avatar.svg"></a>
